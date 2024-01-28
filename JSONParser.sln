@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONParserTool", "JSONParserTool\JSONParserTool.csproj", "{8E982E83-53CA-44CB-A6E9-B99C79C18B72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonParserTool.Test", "JsonParserTool.Test\JsonParserTool.Test.csproj", "{DB8F23B6-B5A0-400F-94D3-9F6D271B9D27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E982E83-53CA-44CB-A6E9-B99C79C18B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E982E83-53CA-44CB-A6E9-B99C79C18B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E982E83-53CA-44CB-A6E9-B99C79C18B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E982E83-53CA-44CB-A6E9-B99C79C18B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB8F23B6-B5A0-400F-94D3-9F6D271B9D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8F23B6-B5A0-400F-94D3-9F6D271B9D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8F23B6-B5A0-400F-94D3-9F6D271B9D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8F23B6-B5A0-400F-94D3-9F6D271B9D27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
